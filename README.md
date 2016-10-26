@@ -1,5 +1,3 @@
-This website is based on the open source "LoveHub" template (http://elkindnet.github.io/forbetterweb-lovehub-free/) created by and maintained by **Jeny Elind** - [elkind.net](http://elkind.net/).
+Created by Richard He, 2016, based on the ForBetterWeb.com "LoveHub Free Version" bootstrap template created by Jeny Elind. 
 
-The template itself is based on the [Bootstrap](http://getbootstrap.com/) framework created by [Mark Otto](https://twitter.com/mdo) and [Jacob Thorton](https://twitter.com/fat).
-
-Copyright 2016 Richard He. 
+Code released under the [Apache 2.0] license.
